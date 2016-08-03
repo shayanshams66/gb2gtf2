@@ -1,0 +1,4 @@
+NC_030416.1	Skipped 98 entries having types: misc_RNA, source, exon.
+'Number of genes: '2300
+ 'Number of mRNA: '2300.
+ 'Number of CDS: '1251
